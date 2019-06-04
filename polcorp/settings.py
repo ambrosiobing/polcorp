@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 ]
 INSTALLED_APPS += [
-    politics.apps.PoliticsConfig,
+    'politics.apps.PoliticsConfig',
 ]
 
 
